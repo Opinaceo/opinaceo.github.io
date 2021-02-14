@@ -3,7 +3,8 @@
 
 @font-face{
 	font-family:neontipografia;
-	src: url(../tipografia/neoneon.ttf);
+	src: url(../tipografia/Neoneon.ttf);
+  src: url(../tipografia/Neoneon.otf);
 }
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&family=Sora:wght@100;200;300;400;500;600;700;800&display=swap');
 /*imagen de fondo*/
